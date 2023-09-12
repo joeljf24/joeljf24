@@ -27,9 +27,9 @@
   <a href="https://www.linkedin.com/in/jerem%C3%ADas-joel-flores-913031273/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/joel.jf/">
+<!--   <a href="https://www.instagram.com/joel.jf/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
-  </a>
+  </a> -->
 </p>
 
 <p  align="center">
