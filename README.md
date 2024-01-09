@@ -10,7 +10,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <b>  About Me</b> 
 
 
- 🔭 I’m currently working on my portfolio
+ 🔭 [**My portfolio**](https://portfolio-b7ynk1rab-joeljf24s-projects.vercel.app/)
 
  🌱 I’m currently learning **Next.js, Typescript and React Native**
 
